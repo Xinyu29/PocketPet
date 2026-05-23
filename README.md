@@ -22,25 +22,16 @@ Built for Malaysian Gen Z, PocketPet combines real-time expense tracking, AI-pow
 
 ## Features
 
-- **🐾 Pet Health System** — Mochi's mood, face, and evolution stage reflect your financial health score in real time
-- **💸 Expense Tracker** — Log daily spending by category with budget limits and real-time alerts
-- **🐷 Savings Logger** — Track total savings synced to the cloud
-- **🎯 Saving Goals** — Set named targets, contribute amounts, and earn XP on completion
-- **📊 Analyze Dashboard** — Weekly bar chart, category donut chart, health score breakdown, and AI predictive spending
-- **🤖 AI Financial Coach** — Context-aware chat powered by Gemini; knows your level, streak, and spending patterns
-- **🛡️ ScamShield** — AI analyzes suspicious SMS/WhatsApp messages and returns scam probability, risk level, and flags
-- **🔗 Link Safety Scanner** — Paste any URL to check for phishing, malware, and fake banking sites
-- **🎓 Scam Awareness Quiz** — Interactive 5-question quiz to test scam detection skills, earn XP, and unlock achievements
-- **🎮 Daily Quests** — One challenge per day from a rotating pool; complete to earn bonus XP
-- **🔥 Streak System** — Daily check-in maintains your streak; milestone toasts every 7 days
-- **⭐ XP & Levelling** — Every action earns XP; Mochi evolves through 5 stages (🐱 → 🐈 → 🐈‍⬛ → 🦁)
-- **🏅 Achievement Badges** — 15 unlockable achievements tracked and displayed in the Profile tab
-- **💰 Budget Manager** — Set monthly limits per category; live progress bars with colour-coded alerts
-- **📖 Daily Financial Story** — Mochi narrates your financial day in a short emotional summary
-- **🧠 AI Habit Detection** — Gemini identifies bad spending patterns from your real category data
-- **📈 Business Model Panel** — Freemium, bank partnership, and data insights revenue model displayed in-app
-- **🔐 Firebase Authentication** — Email/password login and sign-up with per-user cloud data isolation
-- **☁️ Real-time Cloud Sync** — All data synced via Firestore with live status indicator
+# ✨ Key Features
+
+* 🐾 **AI Pet Health System** — Mochi reacts and evolves based on users’ spending, saving, and financial habits
+* 💸 **Smart Finance Tracking** — Expense logging, savings goals, budget management, and real-time spending insights
+* 📊 **AI Analytics Dashboard** — Spending charts, financial health score, predictive analysis, and habit detection
+* 🤖 **AI Financial Coach** — Personalized financial advice and emotional daily financial summaries powered by Gemini
+* 🛡️ **ScamShield Protection** — AI scam detection, phishing link scanner, and scam awareness quiz system
+* 🎮 **Gamification System** — XP, streaks, achievements, daily quests, and pet evolution rewards
+* ☁️ **Cloud-Based System** — Firebase authentication with real-time cloud sync and secure user data storage
+
 
 ---
 
