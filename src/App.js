@@ -26,7 +26,7 @@ try {
 } catch(e) { console.error("Firebase init failed:", e.message); }
 
 // ─── Gemini AI ────────────────────────────────────────────────────────────────
-const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${process.env.REACT_APP_AI_KEY}`;
+const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${process.env.REACT_APP_AI_KEY}`;
 async function ai(messages, system, json = false) {
   try {
     const res = await fetch(GEMINI_URL, {

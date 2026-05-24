@@ -4,14 +4,6 @@
 
 ---
 
-## 🎥 Pitch Video
-
-> ### ▶️ **[Watch the PocketPet Pitch Video on Google Drive](#)**
->
-> **Link:** *(paste your Google Drive link here)*
-
----
-
 ## About PocketPet
 
 PocketPet is an AI-powered financial companion that turns money management into an emotional, gamified experience. Users "take care" of a virtual pet — Mochi — whose health and evolution directly reflects their financial habits. The worse you spend, the sadder Mochi gets. The more you save and avoid scams, the stronger Mochi evolves.
@@ -148,12 +140,3 @@ App runs at `http://localhost:3000`.
 | **Claude (Anthropic)** | Used during development for code generation, debugging, architecture decisions, and feature implementation assistance |
 
 All AI-generated code was reviewed, understood, and modified by the team. We are able to explain every function, component, and logic flow in the codebase.
-
----
-
-## Security
-
-- **Never commit `.env`** — it is listed in `.gitignore`
-- If you accidentally pushed API keys, rotate them immediately in the Google Cloud Console and Firebase Console
-- Firestore rules are scoped per `userId` so users can only access their own data
-- Authentication is handled entirely by Firebase — no passwords are stored by the app
