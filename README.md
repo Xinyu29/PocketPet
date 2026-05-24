@@ -12,9 +12,7 @@ Built for Malaysian Gen Z, PocketPet combines real-time expense tracking, AI-pow
 
 ---
 
-## Features
-
-# ✨ Key Features
+## Key Features
 
 * 🐾 **AI Pet Health System** — Mochi reacts and evolves based on users’ spending, saving, and financial habits
 * 💸 **Smart Finance Tracking** — Expense logging, savings goals, budget management, and real-time spending insights
